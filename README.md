@@ -8,16 +8,20 @@ Use Python requests, APIs, and JSON traversals to answer a fundamental question:
 In this instance, create a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, you'll be utilizing a simple Python library, the OpenWeatherMap API, and a little common sense to create a representative model of weather across world cities.
 The first requirement is to create a series of scatter plots to showcase the following relationships:
 
-Temperature (F) vs. Latitude
+Max Temperature (F) vs. Latitude
+
 ![Temperature (F) vs. Latitude](./img/latitude_vs_maxtemp.png)
 
 Humidity (%) vs. Latitude
+
 ![Humidity (%) vs. Latitude](./img/latitude_vs_humidity.png)
 
 Cloudiness (%) vs. Latitude
+
 ![Cloudiness (%) vs. Latitude](./img/latitude_vs_cloudiness.png)
 
 Wind Speed (mph) vs. Latitude
+
 ![Wind Speed (%) vs. Latitude](./img/latitude_vs_windspeed.png)
  
  
